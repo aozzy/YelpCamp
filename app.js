@@ -27,7 +27,7 @@ const { url } = require('inspector');
 const MongoStore = require("connect-mongo")(session)
 const dbUrl =  process.env.DB_URL || "mongodb://localhost:27017/yelp-camp"
 // process.env.DB_URL 
-
+console.log('hello');
 mongoose.connect(dbUrl, {
   useNewUrlParser: true,
   // useFindAndModify:false,
@@ -172,6 +172,8 @@ app.use((err, req, res, next) => {
   res.status(statusCode).render("error", { err });
 });
 const port = process.env.PORT || 3000
-app.listen(port, () => {
+
+
+app.listen(3000, () => {
   console.log(`Listeneting on port ${port}`);
 });
