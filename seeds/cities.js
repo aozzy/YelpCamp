@@ -8999,4 +8999,156 @@ module.exports = [
       rank: "1000",
       state: "Florida",
   },
+
+{
+  
+  city: "Fuji Five Lakes",
+  state:"Fujiyoshida",
+  latitude:35.4880,
+  longitude:138.8072,
+
+
+},
+
+{
+  city:"Miyajima",
+  state:"Itsukushima",
+  latitude:34.2732,
+  longitude:132.3052,
+},
+{
+  city: "Shinjuku City",
+  state: "Tokyo",
+  latitude:35.6762,
+  longitude:139.6503
+
+},
+
+{
+  city: "Pune",
+  state:"Maharashtra",
+  latitude:18.5204,
+  longitude: 73.8567,
+  
+},
+
+{
+  city: "Shimla",
+  state: "Himachal Pradesh",
+  latitude:31.1048,
+  longitude:77.1734,
+},
+
+{
+  city:"Kochi",
+  state: "Kerala",
+  latitude:10.8505,
+  longitude: 76.2711,
+},
+{
+  city: "Springbok",
+  state: "Northern Cape",
+  latitude: 29.6655,
+  longitude:17.8880, 
+},
+{
+  city: "Tietiesbaai",
+  state: "Western Cape",
+  latitude:32.8162,
+  longitude:17.8656,
+
+},
+{
+  city: "Colenso",
+  state: "KwaZulu-Natal",
+  latitude:28.7459,
+  longitude:29.8294
+},
+
+{
+  city:"le clos du lac",
+  state: "Provence",
+  latitude:4.5616,
+  longitude:6.3461,
+
+},
+{
+  city: "Black Forest",
+  state: "Baden-Wurttemberg",
+  latitude:48.2775,
+  longitude:8.1860,
+},
+{
+  city: "Trieste",
+  state:"Friuli Venezia Giulia",
+  latitude:45.6495,
+  longitude:13.7768,
+},
+{
+  city: "Burgos",
+  state: "Castile and Leon",
+  latitude:42.3505,
+  longitude:3.6894,
+
+},
+{
+  city: "Hals",
+  state: "Vendsyssel",
+  latitude:56.9966,
+  longitude:10.3086,
+},
+
+{
+  city: "Glyfada",
+  state: "Athens",
+  latitude:37.9838,
+  longitude:23.7275,
+},
+
+{
+  city: "Walton on Thames",
+  state: "Surrey",
+  latitude:51.3885,
+  longitude:0.4170,
+
+
+},
+{
+  city: "Newquay",
+  state: "Cornwall",
+  latitude:50.2660,
+  longitude:5.0527,
+
+},
+
+{
+  city: "Filey",
+  state: "North Yorkshire",
+  latitude:53.9591,
+  longitude:1.0792,
+},
+{
+  city: "Perth",
+  state:"Western Australia",
+  latitude:31.9523,
+  longitude:115.8613,
+
+},
+{
+  city: "Queanbeyan",
+  state: "New South Wales",
+  latitude:35.3515,
+  longitude:149.2330,
+
+},
+{
+  city: "Yulara",
+  state:"Northern Territory",
+  latitude:25.2380,
+  longitude:130.9856,
+}
+
+
+
+
 ];
